@@ -46,9 +46,13 @@ print(os.listdir())
 
 import datetime as dt
 
-print(dt.datetime.now())"""
+print(dt.datetime.now())
 
 import requests
 
 url=requests.get('https://jsonplaceholder.typicode.com/users')
-print(url.json())
+print(url.json())"""
+import random
+list1=[10,50,30,12,52]
+for i in range(3):
+    print(random.choice(list1))
