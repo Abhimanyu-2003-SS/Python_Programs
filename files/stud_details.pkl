@@ -1,0 +1,1 @@
+{"English": "71", "Maths": "70", "Science": "72", "Social_Studies": "75"}
